@@ -1,5 +1,5 @@
 import Vue from "vue";
-import App from "./app.ts";
+import * as App from "./app.vue";
 
 //mount
 new Vue({
